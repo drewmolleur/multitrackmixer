@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/900b9ce3-8e2c-4425-98fb-4b3bd96b3ccb/resourceGroups/Master/providers/Microsoft.Web/sites/mimmixer",
+    "appService.deploySubpath": "."
+}
